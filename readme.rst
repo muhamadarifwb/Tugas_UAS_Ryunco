@@ -1,3 +1,12 @@
+Untuk Login halaman backend admin : http://localhost/ryunco/admin/dashboard
+username: muhamadarifwb
+pass: 123456
+
+untuk Login halaman Frontend : http://localhost/ryunco/
+email : 17200095@bsi.ac.id
+pass : 123456
+
+
 ###################
 What is CodeIgniter
 ###################
