@@ -6,6 +6,8 @@ untuk Login halaman Frontend : http://localhost/ryunco/
 email : 17200095@bsi.ac.id
 pass : 123456
 
+untuk database ada difolder database : ryunco.sql
+
 
 ###################
 What is CodeIgniter
